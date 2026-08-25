@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Khamis for trading",
+  "description": "Khamis for trading - Senior Institutional Gold \u0026 Price Action Specialist (XAUUSD / GOLDm#)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
